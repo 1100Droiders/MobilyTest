@@ -13,5 +13,13 @@ public class MainActivity extends Activity {
 		
 		
 		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this , " اعقلللل ", Toast.LENGTH_SHORT).show();
 	}
 }
